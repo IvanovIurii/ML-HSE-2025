@@ -1,0 +1,113 @@
+category_name,category_id
+"Baumaschinen & Baugeräte",100001
+"Druck- & Papiermaschinen",100002
+"Energietechnik",100003
+"Gieß- & Spritzgießmaschinen",100004
+"Lebensmitteltechnik",100005
+"Maschinen für Landwirtschaft, Forstwirtschaft, Fischerei, Gartenbau",100006
+"Maschinenbau, Anlagenbau & Apparatebau",100007
+"Oberflächentechnik",100008
+"Reinigungsgeräte & -maschinen",100009
+"Textilmaschinen",100010
+"Umwelttechnik",100011
+"Verfahrenstechnik",100012
+"Verpackungsmaschinen",100013
+"Werkzeugmaschinen & -geräte",100014
+"Fügen",100015
+"Guss, Spritzguss & additive Fertigung",100016
+"Oberflächenbehandlung",100017
+"Textilproduktion",100018
+"Wärmebehandlung",100019
+"Zerspanung & Umformung",100020
+"Akku- & Batterietechnik",100021
+"Ankauf & Restposten",100022
+"Antriebstechnik",100023
+"Arbeitsschutz",100024
+"Armaturentechnik",100025
+"Baustellenbedarf",100026
+"Baustoffe & Baubedarf",100027
+"Bauteile",100028
+"Bedarf für Landwirtschaft, Forstwirtschaft, Fischerei, Gartenbau",100029
+"Bedarf für Textilproduktion & Lederverarbeitung",100030
+"Befestigungstechnik, Verbindungstechnik & Beschläge",100031
+"Behälter, Logistik- & Lagerbedarf",100032
+"Bekleidung & Accessoires",100033
+"Beleuchtung",100034
+"Bürobedarf",100035
+"Dichtungstechnik",100036
+"Druck & Papier",100037
+"Elektrotechnik",100038
+"Erzeugnisse aus Landwirtschaft, Forstwirtschaft, Fischerei, Gartenbau",100039
+"Dienstleistungen aus Landwirtschaft, Forstwirtschaft, Fischerei, Gartenbau",100040
+"Fahrzeuge",100041
+"Fahrzeugteile & Fahrzeugzubehör",100042
+"Filter- & Siebtechnik",100043
+"Fluidtechnik",100044
+"Fördertechnik",100045
+"Freizeit, Kultur & Tourismus",100046
+"Gastronomie- & Küchengeräte",100047
+"Gastronomiebedarf",100048
+"Glas- & Keramikerzeugnisse",100049
+"Hardware für Informations- & Kommunikationstechnik",100050
+"Haushaltsartikel",100051
+"Heimtextilien",100052
+"Holz & Holzerzeugnisse",100053
+"Hygiene- & Kosmetikartikel",100054
+"Industriebedarf",100055
+"Kabeltechnik",100056
+"Kälte-, Klima-, Lüftungs- & Wärmetechnik",100057
+"Kennzeichnungstechnik",100058
+"Kunststoff & Kunststofferzeugnisse",100059
+"Labortechnik & -bedarf",100060
+"Lasertechnik",100061
+"Lebensmittel",100062
+"Leder, textile Fasern, Garne & Stoffe",100063
+"Löt-, Schweiß- & Klebetechnik",100064
+"Maschinenteile",100065
+"Medizin & Gesundheit",100066
+"Mess- & Prüftechnik",100067
+"Metall & Metallerzeugnisse",100068
+"Möbel & Objekteinrichtung",100069
+"Multimedia",100070
+"Optik",100071
+"Pumpentechnik",100072
+"Reinigungs- & Pflegemittel",100073
+"Reinigungsutensilien",100074
+"Robotik, Prozess- & Automatisierungstechnik",100075
+"Rohr- & Schlauchtechnik",100076
+"Rohstoffe & Chemie",100077
+"Sanitärtechnik",100078
+"Sicherheits- & Rettungstechnik",100079
+"Software",100080
+"Sport",100081
+"Steuer- & Regeltechnik",100082
+"Verkehrstechnik",100083
+"Verpackungsmaterial",100084
+"Werbemittel & Werbetechnik",100085
+"Werkzeuge & Fertigungsbedarf",100086
+"Bau",100087
+"Beratung",100088
+"Design",100089
+"Elektrodienstleistungen",100090
+"Entsorgung & Recycling",100091
+"Event- & Veranstaltungsdienstleistungen",100092
+"Finanzen & Versicherung",100093
+"Foto-, Film- & Tondienstleistungen",100094
+"Gastronomie & Verpflegungsdienstleistungen",100095
+"Immobiliendienstleistungen",100096
+"Informationstechnik-Dienstleistungen",100097
+"Logistik, Transporte & Lagerung",100098
+"Management & Verwaltung",100099
+"Marketing, Werbung & Vertrieb",100100
+"Mess-, Prüf- & Analysedienstleistungen",100101
+"Montage",100102
+"Personaldienstleistungen",100103
+"Pflege- & Kosmetikdienstleistungen",100104
+"Planung, Konstruktion & Entwicklung",100105
+"Reinigung",100106
+"Reparatur, Instandhaltung & Modernisierung",100107
+"Schulung & Weiterbildung",100108
+"Sicherheitsdienstleistungen",100109
+"Übersetzungs- & Lektoratsdienstleistungen",100110
+"Verpackungsdienstleistungen",100111
+"TESTKATEGORIE",706401
