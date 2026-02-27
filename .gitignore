@@ -3,3 +3,4 @@ uv.lock
 hf_cache/
 .idea/
 .DS_Store
+project/dataset/
